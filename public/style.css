@@ -1,0 +1,33 @@
+
+body {     
+    height: 100vh;
+    font-family: 'Source Serif Pro', serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-shadow: 2px 2px 8px rgb(0, 0, 0);
+    background-color: #3BA59C; 
+}
+
+.bg-image {
+    height: 100%;
+    width: 100%;
+    background-image: url("./bg.jpg");
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0) , rgba(0,0,0, 100) ), url(./bg.jpg);    
+    background-position: center;
+    background-size: cover;
+}
+
+.title {
+    font-size: 26px;
+}
+
+section {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.icons {
+    font-size: 30px;
+}
