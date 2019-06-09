@@ -1,0 +1,24 @@
+{
+  "name": "tm-tax-services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://mmthree.github.io.tm-tax-services",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMthree/tm-tax-services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMthree/tm-tax-services/issues"
+  },
+  "homepage": "https://github.com/MMthree/tm-tax-services#readme"
+}
